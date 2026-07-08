@@ -1,0 +1,57 @@
+# 密钥环境文件（防止API Key泄露，重中之重）
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# Python编译缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境文件夹
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter笔记缓存
+.ipynb_checkpoints/
+jupyterlab-log/
+
+# LangChain向量库、本地模型缓存
+chroma_db/
+faiss_index/
+vector_store/
+model_cache/
+.llama_cache/
+
+# 日志、临时素材、数据集
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+*.jpg
+*.png
+*.pdf
+data/
+output/
+
+# PyCharm编辑器配置
+.idea/
+*.iml
+*.iws
+out/
+
+# VSCode配置
+.vscode/
+*.code-workspace
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
