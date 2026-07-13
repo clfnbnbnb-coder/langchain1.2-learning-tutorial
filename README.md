@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ### 06 结构化输出
 ⏳ 待学习
-对应目录：`chapter06_struct_output`
+对应目录：`chapter06-structured_output`
 学习内容：Pydantic约束LLM输出、强制JSON格式化返回
 
 ### 07 智能体 Agent
