@@ -62,7 +62,7 @@ pip install -r requirements.txt
 学习内容：创建tool、自定义工具、工具参数定义与调用、工具的应用案例、tool_choice的使用
 
 ### 06 结构化输出
-⏳ 待学习
+✅ 已完成
 对应目录：`chapter06-structured_output`
 学习内容：Pydantic约束LLM输出、强制JSON格式化返回
 
