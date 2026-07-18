@@ -72,7 +72,7 @@ pip install -r requirements.txt
 学习内容：ReAct推理逻辑、自主工具调用、多轮决策智能体
 
 ### 08 中间件 Middleware
-⏳ 待学习
+✅ 已完成
 对应目录：`chapter08_middleware`
 学习内容：请求拦截、日志埋点、调用前后预处理
 
