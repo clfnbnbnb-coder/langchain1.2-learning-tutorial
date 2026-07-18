@@ -67,7 +67,7 @@ pip install -r requirements.txt
 学习内容：Pydantic约束LLM输出、强制JSON格式化返回
 
 ### 07 智能体 Agent
-⏳ 待学习
+✅ 已完成
 对应目录：`chapter07_agent` 
 学习内容：ReAct推理逻辑、自主工具调用、多轮决策智能体
 
