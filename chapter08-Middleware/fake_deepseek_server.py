@@ -62,7 +62,7 @@ class FakeDeepSeekHandler(BaseHTTPRequestHandler):
             }
         }
         # 80%概率追加第二个工具调用
-        if random.randint(1, 10) > 0:
+        if random.randint(1, 10) > 2:
             response["choices"][0]["message"]["tool_calls"].append(append_val)
 
         print("\n" + "=" * 100)
