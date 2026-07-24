@@ -37,7 +37,6 @@ temp/
 tmp/
 *.jpg
 *.png
-*.pdf
 data/
 output/
 
